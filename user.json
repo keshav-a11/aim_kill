@@ -1,11 +1,8 @@
-[
- [
-  {
-    "username": "keshav",
-    "password": "$2a$10$tEYB57OetZivcDKhAKX.xuHtxS0zP0NzwZqSML2fAEAi6aZ9kSCvi",
-    "expiry": "2025-12-31"
-  }
-]
+
+{
+  "username": "keshav",
+  "password": "aimontop",
+  "expiry": "2025-06-30"
+}
 
 
-]
