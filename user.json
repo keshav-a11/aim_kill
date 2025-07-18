@@ -1,14 +1,12 @@
-
 {
-  "users": [
+  "keys": [
     {
-      "username": "region",
-      "password": "123456"
+      "key": "REGION-123-XYZ",
+      "expiry": "2025-08-31"
     },
     {
-      "username": "kunal",
-      "password": "Aimkill",
-      "expiry": "2025-08-31"
+      "key": "NEWUSER-456-ABC",
+      "expiry": "2025-09-15"
     }
   ]
 }
